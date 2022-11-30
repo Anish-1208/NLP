@@ -1,5 +1,4 @@
-# NLP
-Sentiment Analysis using NLP.
+# Sentiment Analysis using NLP
 This project was part of my Research Assistant at my University. I was given around 14,209 pdf files where I had to perform sentiment analysis using natural language processing in python upon converting the pdf files to txt files.
 
 STEP 1
